@@ -174,3 +174,21 @@ int inteiro = int.Parse("100");
 - Devemos informar o tipo na chamada da conversão
 int inteiro = Convert.ToInt32("100");
 
+## Operadores de comparação
+
+== igual
+
+!= difetente
+
+## Structs (estruturas)
+- Tipo de dado estruturado
+- Estruturar bem nossos tipos
+- Value Type	
+- Apenas estrutura, o esqueleto
+- Tipo de valor
+- Armazenam outros tipos de dados
+- Definido pela palavra Struct
+- Composto de propriedades e métodos
+- Nome sempre com maiusculo (O mesmo para propriedades e métodos)
+- Criado a partir 	da palavra new (Nesse momento sim teremos os valore)
+
