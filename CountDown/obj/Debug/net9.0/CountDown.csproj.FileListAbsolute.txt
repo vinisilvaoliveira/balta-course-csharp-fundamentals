@@ -1,0 +1,15 @@
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\bin\Debug\net9.0\CountDown.exe
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\bin\Debug\net9.0\CountDown.deps.json
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\bin\Debug\net9.0\CountDown.runtimeconfig.json
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\bin\Debug\net9.0\CountDown.dll
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\bin\Debug\net9.0\CountDown.pdb
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.AssemblyInfoInputs.cache
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.AssemblyInfo.cs
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.sourcelink.json
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.dll
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\refint\CountDown.dll
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.pdb
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\CountDown.genruntimeconfig.cache
+C:\Users\dico\Desktop\Courses\balta\fundamentals-csharp\CountDown\obj\Debug\net9.0\ref\CountDown.dll
